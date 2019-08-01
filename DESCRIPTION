@@ -1,11 +1,11 @@
 Package: EasyPloteR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Easy plotting 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Atesh koul
+Maintainer: Atesh Koul <atesh.koul@gmail.com>
+Description: This package is destined to be a overall function for facilitating plotting
+    
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
